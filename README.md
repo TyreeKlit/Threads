@@ -1,5 +1,7 @@
 # Threads
 
+<img src="https://github.com/TyreeKlit/Threads/blob/main/th.png"/>
+
 **Introducing the Threads Intelligent Message Hub**
 
 +  An intuitive dashboard that captures, transcribes, and organizes all of your company’s emails and phone calls into one easily searchable platform
